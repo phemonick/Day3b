@@ -1,0 +1,12 @@
+{
+  "name": "arraypro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prototype.js",
+  "scripts": {
+    "test": "jasmine prototype_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
